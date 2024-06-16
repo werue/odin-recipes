@@ -1,5 +1,10 @@
-li{
+ul li{
     list-style-type: none;
+}
+
+.pancakeImg{
+    width:400px;
+    height:auto;
 }
 
 .nav{
