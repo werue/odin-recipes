@@ -1,0 +1,16 @@
+li{
+    list-style-type: none;
+}
+
+.nav{
+    margin:0;
+    padding:0;
+}
+
+.centerText{
+    text-align:center;
+}
+
+.sans-serif{
+    font-family:Arial, Helvetica, sans-serif;
+}
